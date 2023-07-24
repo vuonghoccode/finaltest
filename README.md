@@ -4,7 +4,7 @@ bài thi cuối kỳ môn c++
 #include<math.h>
 using namespace std;
 #define max 100
- 
+
 int n; 
 int a[max];
 
